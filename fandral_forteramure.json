@@ -1,0 +1,11 @@
+{
+	"nom": "Fandral Forteramure",
+	"points": {
+		"attaque": "3",
+		"vie": "5",
+		"mana": "4"
+	},
+	"type": "serviteur",
+	"classe_joueur": "druide",
+	"description": "Vos cartes avec Choix des armes ont leurs deux effets combinés."
+}

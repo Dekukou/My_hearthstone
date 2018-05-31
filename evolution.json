@@ -1,0 +1,11 @@
+{
+	"nom": "Evolution",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "1"
+	},
+	"type": "sort",
+	"classe_joueur": "chaman",
+	"description": "Transforme vos serviteurs en serviteurs aléatoires qui coûtent (1) de plus."
+}

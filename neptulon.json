@@ -1,0 +1,11 @@
+{
+	"nom": "Neptulon",
+	"points": {
+		"attaque": "5",
+		"vie": "6",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "chaman",
+	"description": "Cri de guerre : ajoute 4 murlocs aléatoires dans votre main. Surcharge : (3)"
+}

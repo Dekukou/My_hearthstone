@@ -1,0 +1,11 @@
+{
+	"nom": "Exhalombre",
+	"points": {
+		"attaque": "4",
+		"vie": "4",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "voleur",
+	"description": "Cri de guerre : choisit un serviteur allié et en place une copie 1/1 coûtant (1) cristal de mana dans votre main."
+}

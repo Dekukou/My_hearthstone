@@ -1,0 +1,11 @@
+{
+	"nom": "Humilite",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "1"
+	},
+	"type": "sort",
+	"classe_joueur": "paladin",
+	"description": "L’Attaque d’un serviteur passe à 1."
+}

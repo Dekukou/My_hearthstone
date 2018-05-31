@@ -1,0 +1,11 @@
+{
+	"nom": "Charpie",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "3"
+	},
+	"type": "sort",
+	"classe_joueur": "druide",
+	"description": "Détruit un serviteur. Ajoute un serviteur aléatoire dans la main de votre adversaire."
+}

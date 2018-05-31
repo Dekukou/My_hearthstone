@@ -1,0 +1,11 @@
+{
+	"nom": "Gahz'rilla",
+	"points": {
+		"attaque": "6",
+		"vie": "9",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "chasseur",
+	"description": "Chaque fois que ce serviteur subit des dégâts, double son Attaque."
+}

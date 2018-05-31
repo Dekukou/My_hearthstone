@@ -1,0 +1,11 @@
+{
+	"nom": "Agent drakonide",
+	"points": {
+		"attaque": "5",
+		"vie": "6",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "pretre",
+	"description": "Cri de guerre : découvre une carte du deck de votre adversaire si vous avez un Dragon en main."
+}

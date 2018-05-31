@@ -1,0 +1,11 @@
+{
+	"nom": "Silence",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "0"
+	},
+	"type": "sort",
+	"classe_joueur": "pretre",
+	"description": "Réservé pour les lanceurs de sort adverses, les liches maléfiques sorties du tombeau et les soirées karaoké au Sinistre écluseur."
+}

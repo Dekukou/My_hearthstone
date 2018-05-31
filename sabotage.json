@@ -1,0 +1,11 @@
+{
+	"nom": "Sabotage",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "4"
+	},
+	"type": "sort",
+	"classe_joueur": "voleur",
+	"description": "Détruit un serviteur adversaire aléatoire. Combo : détruit aussi l'arme de votre adversaire."
+}

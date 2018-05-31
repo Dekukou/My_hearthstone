@@ -1,0 +1,11 @@
+{
+	"nom": "Intendant",
+	"points": {
+		"attaque": "2",
+		"vie": "5",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "paladin",
+	"description": "Cri de guerre : donne +2/+2 à vos recrues de la Main d’argent."
+}

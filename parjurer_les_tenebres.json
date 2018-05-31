@@ -1,0 +1,11 @@
+{
+	"nom": "Parjurer les tenebres",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "2"
+	},
+	"type": "sort",
+	"classe_joueur": "demoniste",
+	"description": "Remplace votre pouvoir héroïque et vos cartes de Démoniste par ceux d'une autre classe. Les cartes coûtent (1) cristal de moins."
+}

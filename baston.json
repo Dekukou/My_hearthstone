@@ -1,0 +1,11 @@
+{
+	"nom": "Baston",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "5"
+	},
+	"type": "sort",
+	"classe_joueur": "guerrier",
+	"description": "Détruit tous les serviteurs sauf un (choisi au hasard)."
+}

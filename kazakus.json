@@ -1,0 +1,11 @@
+{
+	"nom": "Blizzard",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "5"
+	},
+	"type": "serviteur",
+	"classe_joueur": "mage",
+	"description": "Cri de guerre : si votre deck n'a pas de cartes en deux exemplaires, crée un sort personnalisé."
+}

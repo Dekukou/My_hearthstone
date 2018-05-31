@@ -1,0 +1,11 @@
+{
+	"nom": "Infester",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "3"
+	},
+	"type": "sort",
+	"classe_joueur": "chasseur",
+	"description": "Donne à vos serviteurs : Râle d'agonie : ajoute une carte Bête aléatoire dans votre main."
+}

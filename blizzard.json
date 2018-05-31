@@ -1,0 +1,11 @@
+{
+	"nom": "Blizzard",
+	"points": {
+		"attaque": "",
+		"vie": "",
+		"mana": "5"
+	},
+	"type": "sort",
+	"classe_joueur": "mage",
+	"description": "Inflige 2 points de dégâts à tous les serviteurs adverses et les gèle."
+}

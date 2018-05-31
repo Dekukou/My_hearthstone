@@ -1,0 +1,11 @@
+{
+	"nom": "Gangrecanon",
+	"points": {
+		"attaque": "3",
+		"vie": "5",
+		"mana": "4"
+	},
+	"type": "serviteur",
+	"classe_joueur": "demoniste",
+	"description": "À la fin de votre tour, inflige 2 points de dégâts à un serviteur non Méca."
+}

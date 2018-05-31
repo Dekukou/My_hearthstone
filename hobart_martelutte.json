@@ -1,0 +1,11 @@
+{
+	"nom": "Hobart Martelutte",
+	"points": {
+		"attaque": "2",
+		"vie": "2",
+		"mana": "2"
+	},
+	"type": "serviteur",
+	"classe_joueur": "guerrier",
+	"description": "Cri de guerre : donne +1 ATQ à toutes les armes dans votre main et votre deck."
+}
